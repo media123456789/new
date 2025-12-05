@@ -2,9 +2,9 @@ import { Linkedin, Mail, ArrowRight } from "lucide-react";
 import heroImage from "@/assets/hero-trading.jpg";
 
 // Placeholder URLs - replace with actual values
-const GOOGLE_FORM_URL = "https://forms.google.com/YOUR_FORM_ID";
-const LINKEDIN_URL = "https://linkedin.com/in/YOUR_PROFILE";
-const EMAIL = "contact@example.com";
+const GOOGLE_FORM_URL = "https://forms.gle/tyWhK6VycarZPSBBA";
+const LINKEDIN_URL = "https://www.linkedin.com/in/tanishkkumar1234/";
+const EMAIL = "tanishkkumar466@gmail.com";
 
 const Index = () => {
   return (
